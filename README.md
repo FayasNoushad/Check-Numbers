@@ -59,6 +59,20 @@ print(is_negative(1))
 # => False
 ```
 
+### Check Odd
+
+```py
+from check_numbers import is_odd
+
+
+print(is_odd(1))
+# => True
+print(is_odd(0))
+# => False
+print(is_odd(2))
+# => False
+```
+
 ### Check Even
 
 ```py
