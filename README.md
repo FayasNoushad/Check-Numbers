@@ -59,6 +59,20 @@ print(is_negative(1))
 # => False
 ```
 
+### Check Prime
+
+```py
+from check_numbers import is_prime
+
+
+print(is_prime(5))
+# => True
+print(is_prime(0))
+# => False
+print(is_prime(1))
+# => False
+```
+
 ---
 
 ## Credits
