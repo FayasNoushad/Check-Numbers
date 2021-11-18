@@ -19,6 +19,15 @@ def is_zero(num):
         return False
 
 
+def is_even(num):
+    if int(num) <= 0:
+        return False
+    if int(num) % 2 == 0:
+        return True
+    else:
+        return False
+
+
 def is_prime(num):
     if int(num) == 0 or int(num) == 1:
         return False
