@@ -59,6 +59,20 @@ print(is_negative(1))
 # => False
 ```
 
+### Check Even
+
+```py
+from check_numbers import is_even
+
+
+print(is_even(2))
+# => True
+print(is_even(0))
+# => False
+print(is_even(1))
+# => False
+```
+
 ### Check Prime
 
 ```py
