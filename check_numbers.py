@@ -17,3 +17,20 @@ def is_zero(num):
         return True
     else:
         return False
+
+
+def is_prime(num):
+    if int(num) == 0 or int(num) == 1:
+        return False
+    result = 0
+    total = 0
+    while True:
+        if total == int(num):
+            break
+        total += 1
+        if int(num) % total == 0:
+            result += 1
+    if result <= 2:
+        return True
+    else:
+        return False
