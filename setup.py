@@ -20,11 +20,10 @@ def readme(file="README.md"):
 
 setuptools.setup(
     name="Check-Numbers",
-    version="1.0.5",
+    version="1.0.6",
     description="Numbers checker",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    download_url="https://github.com/FayasNoushad/Check-Numbers/releases/latest",
     license="MIT",
     author="Fayas Noushad",
     classifiers=[
