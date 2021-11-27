@@ -20,7 +20,7 @@ def readme(file="README.md"):
 
 setuptools.setup(
     name="Check-Numbers",
-    version="1.0.6",
+    version="1.0.7",
     description="Numbers checker",
     long_description=readme(),
     long_description_content_type="text/markdown",

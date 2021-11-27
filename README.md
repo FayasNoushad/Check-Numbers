@@ -1,19 +1,11 @@
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Check-Numbers/blob/main/LICENSE
-```
-
----
+# Check Numbers
+Python numbers checker
 
 ## Installation
 
 ```
 pip install Check-Numbers
 ```
-
----
 
 ## Usage
 
@@ -100,11 +92,3 @@ print(is_prime(0))
 print(is_prime(1))
 # => False
 ```
-
----
-
-## Credits
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
-
----
